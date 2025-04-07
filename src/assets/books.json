@@ -1,0 +1,295 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "2",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "be58",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "4",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "be58",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "6",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "5",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "be58",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "7",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "8",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "9",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "10",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "11",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "12",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "13",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "14",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "2234sv",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "sdvsdv",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "gfdss",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "besf58",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "sdfsdf",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "sdfwww",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "hjhj,",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "tmjjtm",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "fmmfd",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "tttttr",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "edbdb",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "sdfsfwrt34",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "brr45e58",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "14545",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "2asdwerwr",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "be5asdads8",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "1wer34",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "description": "Dystopian novel...",
+      "checkedOut": false
+    },
+    {
+      "id": "2ertert4t",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-08-01",
+      "description": "Science fiction classic...",
+      "checkedOut": true
+    },
+    {
+      "id": "bert3t4e58",
+      "title": "asd",
+      "author": "asdasd",
+      "publishedDate": "2025-04-02",
+      "description": "asd"
+    },
+    {
+      "id": "50f8",
+      "title": "rwetwetew",
+      "author": "werwrerww",
+      "publishedDate": "2025-04-09",
+      "description": "werwr"
+    },
+    {
+      "id": "4e78",
+      "title": "111",
+      "author": "sdfsdf",
+      "publishedDate": "2025-04-08",
+      "description": "sdfsdf",
+      "checkedOut": true
+    }
+  ]
+}
